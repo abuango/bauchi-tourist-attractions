@@ -12,4 +12,20 @@
       }
     }
   ]
+};
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.510317,9.754433]
+      },
+      "properties": {
+        "name": "Yankari National Park"
+      }
+    }
+  ]
 }

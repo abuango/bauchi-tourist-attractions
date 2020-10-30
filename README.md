@@ -1,6 +1,6 @@
 # Tourist Attractions in Bauchi, Nigeria.
 
-This project contains code for a website displaying different tourist attraction in Bauchi, using GitHub Pages and its contributed by a community of developers in Bauchi during a Hacktoberfest event.
+This project contains code for a website displaying different tourist attractions in Bauchi, Bauchi State Nigeria, using GitHub Pages and as contributed to by a community of developers in Bauchi state commencing from the 2019 Hactoberfest event.
 
 ## Tools
 - HTML
